@@ -1,1 +1,22 @@
-{}
+{
+    "id": "warkstudios",
+    "name": "Wark Studios",
+    "description": "Wark support and announcement server",
+    "discord": [
+        "https://dsc.gg/wark"
+    ],
+    "warkServices": "true",
+    "warkguardServices": "true",
+    "warkguardVerify": "true",
+    "minecraftServer": "false",
+    "primaryColor": "#4498DB",
+    "secondaryColor": "#ADF3FD",
+    "region": "EU",
+    "socials": {
+        "twitter": "@Wark_Studios",
+        "twitter": "@WarkCorporation",
+        "twitter": "@WarkLLC",
+        "twitter": "@WarkBot",
+        "twitter": "@WarkGuard"
+    }
+}
