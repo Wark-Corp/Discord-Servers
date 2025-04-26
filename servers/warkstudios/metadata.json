@@ -9,8 +9,8 @@
     "warkguardServices": "true",
     "warkguardVerify": "true",
     "minecraftServer": "false",
-    "primaryColor": "#4498DB",
-    "secondaryColor": "#ADF3FD",
+    "primaryColor": "#FFFFF",
+    "secondaryColor": "#F0F0F0",
     "region": "EU",
     "socials": {
         "twitter": "@Wark_Studios",
