@@ -1,1 +1,29 @@
-test
+{
+    "id": "motionmc",
+    "name": "Motion Network",
+    "description": "Explore, survive, and battle in Motion Network",
+    "discord": [
+        "https://discord.motionmc.es"
+    ],
+    "warkServices": "true",
+    "warkguardServices": "true",
+    "warkguardVerify": "true",
+    "minecraftServer": "true",
+    "address": "motionmc.es",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryColor": "#4498DB",
+    "secondaryColor": "#ADF3FD",
+    "region": "EU",
+    "socials": {
+        "twitter": "Network_Motion",
+        "instagram: "motionnetwork1"
+    }
+}
